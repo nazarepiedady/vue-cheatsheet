@@ -39,7 +39,7 @@ All **suggestions/PR** are welcome!
 | Vue | <https://vuejs.org> |
 | Vue Router | <https://router.vuejs.org> |
 | Pinia | <https://pinia.vuejs.org> |
-| Vitepre | <https://vitepress.dev> |
+| VitePress | <https://vitepress.dev> |
 | Python Cheatsheet | <https://www.pythoncheatsheet.org> |
 
 ## Copyright and license ©
